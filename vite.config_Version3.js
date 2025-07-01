@@ -1,3 +1,3 @@
 export default {
-  base: '/SDC2/'
+  base: '/SDC3/'
 }
